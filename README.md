@@ -3,7 +3,6 @@
 <p align="center">
 🎮 Junior Software Engineer & 3D Enthusiast<br>
 🧱 Apaixonado por jogos, código, modelação e criatividade<br>
-📍 Porto, Portugal 🇵🇹<br>
 💡 "Ligar o mundo 3D com a lógica da programação é o meu objetivo"
 </p>
 
