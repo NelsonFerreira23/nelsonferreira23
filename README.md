@@ -66,16 +66,17 @@
 
 ---
 
-### 🧠 Projetos em Destaque
+### 🧠 Featured Projects
 
-- 🎯 [**TOP Performance Gym**](https://topperformancerehab.pt) – Sistema completo de gestão de ginásio (Laravel + PostgreSQL)
-- 🚗 [**MelresCar**](https://github.com/NelsonFerreira23/MelresCar-master) – Gestão de aluguer de veículos (C# + Windows Forms)
-- ✈️ [**AeroMills**](https://github.com/NelsonFerreira23/AeroMills-main) – Aluguer de aeronaves (C++)
-- 🔫 [**Dungeon-Gunner**](https://github.com/NelsonFerreira23/Dungeon-Gunner) – Jogo 2D roguelike (Unity + C#)
+- 🎯 [**TOP Performance Gym**](https://topperformancerehab.pt) – Complete gym management system (Laravel + PostgreSQL)
+- 🚗 [**MelresCar**](https://github.com/NelsonFerreira23/MelresCar-master) – Vehicle rental management (C# + Windows Forms)
+- ✈️ [**AeroMills**](https://github.com/NelsonFerreira23/AeroMills-main) – Aircraft rental system (C++)
+- 🔫 [**Dungeon-Gunner**](https://github.com/NelsonFerreira23/Dungeon-Gunner) – 2D roguelike shooter game (Unity + C#)
 
 ---
 
-### 📫 Onde me encontrar
+### 📫 Where to find me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/nelson-ferreira-20b3a6235/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -90,7 +91,7 @@
 
 ---
 
-## 👣 Contador de Visitas
+## 👣 Visitor Counter
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/NelsonFerreira23/count.svg" />
