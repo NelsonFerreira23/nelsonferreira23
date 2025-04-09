@@ -1,9 +1,9 @@
-<h1 align="center">👋 Olá, eu sou o Nelson Ferreira</h1>
+<h1 align="center">👋 Hello, I'm Nelson Ferreira</h1>
 
 <p align="center">
 🎮 Junior Software Engineer & 3D Enthusiast<br>
-🧱 Apaixonado por jogos, código, modelação e criatividade<br>
-💡 "Ligar o mundo 3D com a lógica da programação é o meu objetivo"
+🧱 Passionate about games, coding, modeling, and creativity<br>
+💡 "My goal is to connect the 3D world with programming logic"
 </p>
 
 ---
