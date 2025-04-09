@@ -27,11 +27,18 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NelsonFerreira23&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonFerreira23&layout=compact&theme=radical" />
-</div>
+## 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NelsonFerreira23&theme=tokyonight" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NelsonFerreira23&theme=tokyonight" width="400"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
