@@ -1,15 +1,33 @@
 <h1 align="center">👋 Olá, eu sou o Nelson Ferreira</h1>
 
 <p align="center">
-🎮 Apaixonado por jogos, 3D e desenvolvimento fullstack <br>
-📍 Do Porto, Portugal <br>
-🚀 Em constante evolução e aprendizagem
+🎮 Junior Software Engineer & 3D Enthusiast<br>
+🧱 Apaixonado por jogos, código, modelação e criatividade<br>
+📍 Porto, Portugal 🇵🇹<br>
+💡 "Ligar o mundo 3D com a lógica da programação é o meu objetivo"
 </p>
 
 ---
 
-### 📊 Estatísticas GitHub
+### 🚀 Tecnologias e Ferramentas
+<p align="center">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/-3ds%20Max-003A60?style=for-the-badge&logo=autodesk&logoColor=white" />
+</p>
 
+---
+
+### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NelsonFerreira23&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonFerreira23&layout=compact&theme=radical" />
@@ -17,16 +35,12 @@
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
-<p align="center">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-</p>
+### 🧠 Projetos em Destaque
+
+- 🎯 [**TOP Performance Gym**](https://topperformancerehab.pt) – Sistema completo de gestão de ginásio (Laravel + PostgreSQL)
+- 🚗 [**MelresCar**](https://github.com/NelsonFerreira23/MelresCar-master) – Gestão de aluguer de veículos (C# + Windows Forms)
+- ✈️ [**AeroMills**](https://github.com/NelsonFerreira23/AeroMills-main) – Aluguer de aeronaves (C++)
+- 🔫 [**Dungeon-Gunner**](https://github.com/NelsonFerreira23/Dungeon-Gunner) – Jogo 2D roguelike (Unity + C#)
 
 ---
 
@@ -38,13 +52,15 @@
   <a href="mailto:nelsonferreira004@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/seuusuario" target="_blank">
+  <a href="https://instagram.com/seuinstagram" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 👣 Visitantes
+### 👣 Contador de visitas
 
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=NelsonFerreira23&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NelsonFerreira23&label=Visitas&color=0e75b6&style=flat" />
+</p>
