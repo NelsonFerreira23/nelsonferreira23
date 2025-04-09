@@ -91,8 +91,8 @@
 
 ---
 
-### 👣 Contador de visitas
+## 👣 Contador de Visitas
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NelsonFerreira23&label=Visitas&color=0e75b6&style=flat" />
+  <img src="https://profile-counter.glitch.me/NelsonFerreira23/count.svg" />
 </p>
